@@ -1,4 +1,4 @@
-# Default Community Health Files
+# Community Health Files
 
 ![Capco](assets/capco_logo.jpg)
 
