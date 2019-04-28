@@ -1,4 +1,9 @@
 # Contributing to Capco Digital
+
+![Capco](assets/capco_logo.jpg)
+
+## Purpose
+
 We love your input! We want to make contributing to these projects as easy and transparent as possible, whether it's:
 
 - Reporting a bug
