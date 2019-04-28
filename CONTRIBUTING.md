@@ -13,10 +13,15 @@ We love your input! We want to make contributing to these projects as easy and t
 - Becoming a maintainer
 
 ## We Develop with Github
+
 We use github to host code, to track issues and feature requests, as well as accept pull requests.
 
-## We Use [Github Flow](https://guides.github.com/introduction/flow/index.html), All Code Changes Happen Through Pull Requests
-Pull requests are the best way to propose changes to the codebase (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). We actively welcome your pull requests:
+## We use Github Flow 
+
+We Use [Github Flow](https://guides.github.com/introduction/flow/index.html), All Code Changes Happen Through Pull Requests
+Pull requests are the best way to propose changes to the codebase. 
+
+We actively welcome your pull requests:
 
 1. Fork the repo and create your branch from `master`
 2. If you've added code that should be tested, add tests
@@ -29,7 +34,7 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
 ## Reporting Bugs via [Github Issues](https://github.com/briandk/transcriptase-atom/issues)
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](); it's that easy!
+We use GitHub issues to track public bugs.  It's that easy!
 
 ## Write Bug reports With Detail, Background and Sample Code
 
