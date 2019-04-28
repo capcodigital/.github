@@ -33,7 +33,7 @@ We actively welcome your pull requests:
 ## MIT Software License
 In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
-## Reporting Bugs via [Github Issues](https://github.com/briandk/transcriptase-atom/issues)
+## Reporting Bugs via Issues
 We use GitHub issues to track public bugs.  It's that easy!
 
 ## Write Bug reports With Detail, Background and Sample Code
