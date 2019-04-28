@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
 ![Capco](assets/capco_logo.jpg)
 
