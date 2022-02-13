@@ -1,9 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -76,16 +70,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Acknowledgements
 
 * [Best README Template](https:/.github.com/othneildrew/Best-README-Template/blob/master/README.md)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io.github/contributors/capcodigital/.github.svg?style=for-the-badge
-[contributors-url]: https:/.github.com/capcodigital/.github/graphs/contributors
-[forks-shield]: https://img.shields.io.github/forks/capcodigital/.github.svg?style=for-the-badge
-[forks-url]: https:/.github.com/capcodigital/.github/network/members
-[stars-shield]: https://img.shields.io.github/stars/capcodigital/.github.svg?style=for-the-badge
-[stars-url]: https:/.github.com/capcodigital/.github/stargazers
-[issues-shield]: https://img.shields.io.github/issues/capcodigital/.github.svg?style=for-the-badge
-[issues-url]: https:/.github.com/capcodigital/.github/issues
-[license-shield]: https://img.shields.io.github/license/capcodigital/.github.svg?style=for-the-badge
-[license-url]: https:/.github.com/capcodigital/.github/blob/master/LICENSE
