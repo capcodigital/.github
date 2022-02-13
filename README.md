@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/capcodigital/.github">
+  <a href="https:/.github.com/capcodigital/.github">
     <img src="images/capco.jpeg" alt="Logo" height="160">
   </a>
 
@@ -16,12 +16,12 @@
   <p align="center">
     The community health files that are applied across the organisation
     <br />
-    <a href="https://github.com/capcodigital/.github"><strong>Explore the docs »</strong></a>
+    <a href="https:/.github.com/capcodigital/.github"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/capcodigital/.github/issues">Report Bug</a>
+    <a href="https:/.github.com/capcodigital/.github/issues">Report Bug</a>
     ·
-    <a href="https://github.com/capcodigital/.github/issues">Request Feature</a>
+    <a href="https:/.github.com/capcodigital/.github/issues">Request Feature</a>
   </p>
 </p>
 
@@ -49,7 +49,7 @@ For more information read
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/capcodigital/.github/issues) for a list of proposed features (and known issues).
+See the [open issues](https:/.github.com/capcodigital/.github/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -64,8 +64,8 @@ Contributions are what make the open source community such an amazing place to b
 
 If you would like to contribute to any Capco Digital OSS projects please read:
 
-* [Code of Conduct](https://github.com/capcodigital/.github/blob/master/CODE_OF_CONDUCT.md)
-* [Contributing Guidelines](https://github.com/capcodigital/.github/blob/master/CONTRIBUTING.md)
+* [Code of Conduct](https:/.github.com/capcodigital/.github/blob/master/CODE_OF_CONDUCT.md)
+* [Contributing Guidelines](https:/.github.com/capcodigital/.github/blob/master/CONTRIBUTING.md)
 
 <!-- LICENSE -->
 ## License
@@ -75,17 +75,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Best README Template](https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
+* [Best README Template](https:/.github.com/othneildrew/Best-README-Template/blob/master/README.md)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/capcodigital/.github.svg?style=for-the-badge
-[contributors-url]: https://github.com/capcodigital/.github/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/capcodigital/.github.svg?style=for-the-badge
-[forks-url]: https://github.com/capcodigital/.github/network/members
-[stars-shield]: https://img.shields.io/github/stars/capcodigital/.github.svg?style=for-the-badge
-[stars-url]: https://github.com/capcodigital/.github/stargazers
-[issues-shield]: https://img.shields.io/github/issues/capcodigital/.github.svg?style=for-the-badge
-[issues-url]: https://github.com/capcodigital/.github/issues
-[license-shield]: https://img.shields.io/github/license/capcodigital/.github.svg?style=for-the-badge
-[license-url]: https://github.com/capcodigital/.github/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io.github/contributors/capcodigital/.github.svg?style=for-the-badge
+[contributors-url]: https:/.github.com/capcodigital/.github/graphs/contributors
+[forks-shield]: https://img.shields.io.github/forks/capcodigital/.github.svg?style=for-the-badge
+[forks-url]: https:/.github.com/capcodigital/.github/network/members
+[stars-shield]: https://img.shields.io.github/stars/capcodigital/.github.svg?style=for-the-badge
+[stars-url]: https:/.github.com/capcodigital/.github/stargazers
+[issues-shield]: https://img.shields.io.github/issues/capcodigital/.github.svg?style=for-the-badge
+[issues-url]: https:/.github.com/capcodigital/.github/issues
+[license-shield]: https://img.shields.io.github/license/capcodigital/.github.svg?style=for-the-badge
+[license-url]: https:/.github.com/capcodigital/.github/blob/master/LICENSE
