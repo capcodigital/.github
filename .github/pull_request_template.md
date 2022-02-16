@@ -12,16 +12,16 @@ Before you create this PR confirm that it meets all requirements listed below by
 
 *PRs that should not be reviewed should be marked as a WIP.
 
-- [] This PR is currently a work-in-progress.
-- [] This PR is ready for review.
+- [ ] This PR is currently a work-in-progress.
+- [ ] This PR is ready for review.
 
 ## Checklist
 
-- [] My PR includes unit or integration tests for *all* changed/updated/fixed behaviors.
-- [] All existing and new tests are passing.
-- [] My PR meets the acceptance criteria as outlined by my ticket.
-- [] I updated/added relevant documentation and comments (docs start with `///` and comments with `//`).
-- [] The analyzer (`flutter analyze`) does not report any problems on my PR.
+- [ ] My PR includes unit or integration tests for *all* changed/updated/fixed behaviors.
+- [ ] All existing and new tests are passing.
+- [ ] My PR meets the acceptance criteria as outlined by my ticket.
+- [ ] I updated/added relevant documentation and comments (docs start with `///` and comments with `//`).
+- [ ] Static analysis (e.g. Snyk) does not report any problems on my PR.
 
 ## Screenshots
 
